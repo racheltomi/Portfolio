@@ -21,7 +21,7 @@ export const ProjectsData = [
     img: project6,
     info: "Vortex Events creates engaging virtual team experiences like games, workshops, and immersive challenges to boost remote team culture, performance,and fun.",
     stacks: ["Wordpress", "Figma"],
-    url: "https://allpawsretreat.com/daycare-lp/",
+    url: "https://vortexevents.online/eventlistings/",
     github: "",
   },
   {
