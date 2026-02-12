@@ -1,7 +1,7 @@
 import project3 from "../../../Assets/isshot.png";
 import project2 from "../../../Assets/spotify-clone-app4.jpg";
 import project4 from "../../../Assets/dashboard-screenshot2.jpg";
-import project6 from "../../../Assets/dashtrackimg.png";
+import project6 from "../../../Assets/newdashtrack.png";
 import project7 from "../../../Assets/anonimg.png";
 import project1 from "../../../Assets/clipstylesimg.png";
 
